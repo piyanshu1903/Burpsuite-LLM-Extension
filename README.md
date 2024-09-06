@@ -1,2 +1,2 @@
 # Burpsuite-LLM-Extension
-CollaboraƟvely developed an extension for BurpSuite using Python, Flask, LangChain  and Gemini LLM.
+In a collaborative project, We developed an extension for Burp Suite using Python, Flask, LangChain, and the Gemini LLM. This extension was designed to monitor and alert users about vulnerabilities in request/response instances by analyzing request headers and body content, ensuring precise safety evaluations and enhancing the overall security assessment process.

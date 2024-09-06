@@ -1,0 +1,133 @@
+URL: https://bwapp.hakhub.net:443/logout.php
+Request Type: GET
+{u'Cookie': u'security_level=0; PHPSESSID=bv4k5jtt020tdibai95hev3ig3', u'Accept': u'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', u'Connection': u'close', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0', u'Referer': u'https://bwapp.hakhub.net/portal.php', u'Sec-Fetch-Site': u'same-origin', u'Sec-Fetch-Dest': u'document', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Sec-Fetch-Mode': u'navigate', u'sec-ch-ua': u'"Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"', u'sec-ch-ua-mobile': u'?0', u'Upgrade-Insecure-Requests': u'1', u'sec-ch-ua-platform': u'"Windows"', u'Sec-Fetch-User': u'?1', u'Accept-Language': u'en-US,en;q=0.9'}
+0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+URL: https://bwapp.hakhub.net:443/login.php
+Request Type: GET
+{u'Cookie': u'security_level=0; PHPSESSID=bv4k5jtt020tdibai95hev3ig3', u'Accept': u'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', u'Connection': u'close', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0', u'Referer': u'https://bwapp.hakhub.net/portal.php', u'Sec-Fetch-Site': u'same-origin', u'Sec-Fetch-Dest': u'document', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Sec-Fetch-Mode': u'navigate', u'sec-ch-ua': u'"Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"', u'sec-ch-ua-mobile': u'?0', u'Upgrade-Insecure-Requests': u'1', u'sec-ch-ua-platform': u'"Windows"', u'Sec-Fetch-User': u'?1', u'Accept-Language': u'en-US,en;q=0.9'}
+0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+URL: https://bwapp.hakhub.net:443/login.php
+Request Type: POST
+{u'Origin': u'https://bwapp.hakhub.net', u'Cookie': u'security_level=0; PHPSESSID=bv4k5jtt020tdibai95hev3ig3', u'Accept': u'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', u'Connection': u'close', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0', u'Referer': u'https://bwapp.hakhub.net/login.php', u'Sec-Fetch-Site': u'same-origin', u'Sec-Fetch-Dest': u'document', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Sec-Fetch-Mode': u'navigate', u'sec-ch-ua': u'"Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"', u'sec-ch-ua-mobile': u'?0', u'Cache-Control': u'max-age=0', u'Upgrade-Insecure-Requests': u'1', u'sec-ch-ua-platform': u'"Windows"', u'Sec-Fetch-User': u'?1', u'Accept-Language': u'en-US,en;q=0.9', u'Content-Length': u'63', u'Content-Type': u'application/x-www-form-urlencoded'}
+0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+URL: https://bwapp.hakhub.net:443/portal.php
+Request Type: GET
+{u'Cookie': u'security_level=0; PHPSESSID=7ho9m1t975a6bj8364jrlh4396', u'Accept': u'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', u'Connection': u'close', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0', u'Referer': u'https://bwapp.hakhub.net/login.php', u'Sec-Fetch-Site': u'same-origin', u'Sec-Fetch-Dest': u'document', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Sec-Fetch-Mode': u'navigate', u'sec-ch-ua': u'"Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"', u'sec-ch-ua-mobile': u'?0', u'Cache-Control': u'max-age=0', u'Upgrade-Insecure-Requests': u'1', u'sec-ch-ua-platform': u'"Windows"', u'Sec-Fetch-User': u'?1', u'Accept-Language': u'en-US,en;q=0.9'}
+0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+URL: https://bwapp.hakhub.net:443/logout.php
+Request Type: GET
+{u'Cookie': u'security_level=0; PHPSESSID=7ho9m1t975a6bj8364jrlh4396', u'Accept': u'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', u'Connection': u'close', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0', u'Referer': u'https://bwapp.hakhub.net/portal.php', u'Sec-Fetch-Site': u'same-origin', u'Sec-Fetch-Dest': u'document', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Sec-Fetch-Mode': u'navigate', u'sec-ch-ua': u'"Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"', u'sec-ch-ua-mobile': u'?0', u'Upgrade-Insecure-Requests': u'1', u'sec-ch-ua-platform': u'"Windows"', u'Sec-Fetch-User': u'?1', u'Accept-Language': u'en-US,en;q=0.9'}
+0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+URL: https://bwapp.hakhub.net:443/login.php
+Request Type: GET
+{u'Cookie': u'security_level=0; PHPSESSID=7ho9m1t975a6bj8364jrlh4396', u'Accept': u'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', u'Connection': u'close', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0', u'Referer': u'https://bwapp.hakhub.net/portal.php', u'Sec-Fetch-Site': u'same-origin', u'Sec-Fetch-Dest': u'document', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Sec-Fetch-Mode': u'navigate', u'sec-ch-ua': u'"Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"', u'sec-ch-ua-mobile': u'?0', u'Upgrade-Insecure-Requests': u'1', u'sec-ch-ua-platform': u'"Windows"', u'Sec-Fetch-User': u'?1', u'Accept-Language': u'en-US,en;q=0.9'}
+0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+URL: https://bwapp.hakhub.net:443/login.php
+Request Type: POST
+{u'Origin': u'https://bwapp.hakhub.net', u'Cookie': u'security_level=0; PHPSESSID=7ho9m1t975a6bj8364jrlh4396', u'Accept': u'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', u'Connection': u'close', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0', u'Referer': u'https://bwapp.hakhub.net/login.php', u'Sec-Fetch-Site': u'same-origin', u'Sec-Fetch-Dest': u'document', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Sec-Fetch-Mode': u'navigate', u'sec-ch-ua': u'"Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"', u'sec-ch-ua-mobile': u'?0', u'Cache-Control': u'max-age=0', u'Upgrade-Insecure-Requests': u'1', u'sec-ch-ua-platform': u'"Windows"', u'Sec-Fetch-User': u'?1', u'Accept-Language': u'en-US,en;q=0.9', u'Content-Length': u'63', u'Content-Type': u'application/x-www-form-urlencoded'}
+0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+URL: https://bwapp.hakhub.net:443/portal.php
+Request Type: GET
+{u'Cookie': u'security_level=0; PHPSESSID=u7kp3is7jdbo8ot51au9fnnig4', u'Accept': u'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', u'Connection': u'close', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0', u'Referer': u'https://bwapp.hakhub.net/login.php', u'Sec-Fetch-Site': u'same-origin', u'Sec-Fetch-Dest': u'document', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Sec-Fetch-Mode': u'navigate', u'sec-ch-ua': u'"Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"', u'sec-ch-ua-mobile': u'?0', u'Cache-Control': u'max-age=0', u'Upgrade-Insecure-Requests': u'1', u'sec-ch-ua-platform': u'"Windows"', u'Sec-Fetch-User': u'?1', u'Accept-Language': u'en-US,en;q=0.9'}
+0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+URL: https://bwapp.hakhub.net:443/images/zap.png
+Request Type: GET
+{u'Accept': u'*/*', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.62 Safari/537.36', u'Connection': u'close', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Cache-Control': u'max-age=0', u'Accept-Language': u'en-US;q=0.9,en;q=0.8'}
+0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+URL: https://bwapp.hakhub.net:443/images/owasp.png
+Request Type: GET
+{u'Accept': u'*/*', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.62 Safari/537.36', u'Connection': u'close', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Cache-Control': u'max-age=0', u'Accept-Language': u'en-US;q=0.9,en;q=0.8'}
+0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+URL: https://bwapp.hakhub.net:443/images/netsparker.png
+Request Type: GET
+{u'Accept': u'*/*', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.62 Safari/537.36', u'Connection': u'close', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Cache-Control': u'max-age=0', u'Accept-Language': u'en-US;q=0.9,en;q=0.8'}
+0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+URL: https://bwapp.hakhub.net:443/images/mk.png
+Request Type: GET
+{u'Accept': u'*/*', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.62 Safari/537.36', u'Connection': u'close', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Cache-Control': u'max-age=0', u'Accept-Language': u'en-US;q=0.9,en;q=0.8'}
+0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+URL: https://bwapp.hakhub.net:443/logout.php
+Request Type: GET
+{u'Cookie': u'security_level=0; PHPSESSID=u7kp3is7jdbo8ot51au9fnnig4', u'Accept': u'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', u'Connection': u'close', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0', u'Referer': u'https://bwapp.hakhub.net/portal.php', u'Sec-Fetch-Site': u'same-origin', u'Sec-Fetch-Dest': u'document', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Sec-Fetch-Mode': u'navigate', u'sec-ch-ua': u'"Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"', u'sec-ch-ua-mobile': u'?0', u'Upgrade-Insecure-Requests': u'1', u'sec-ch-ua-platform': u'"Windows"', u'Sec-Fetch-User': u'?1', u'Accept-Language': u'en-US,en;q=0.9'}
+0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+URL: https://bwapp.hakhub.net:443/login.php
+Request Type: GET
+{u'Cookie': u'security_level=0; PHPSESSID=u7kp3is7jdbo8ot51au9fnnig4', u'Accept': u'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', u'Connection': u'close', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0', u'Referer': u'https://bwapp.hakhub.net/portal.php', u'Sec-Fetch-Site': u'same-origin', u'Sec-Fetch-Dest': u'document', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Sec-Fetch-Mode': u'navigate', u'sec-ch-ua': u'"Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"', u'sec-ch-ua-mobile': u'?0', u'Upgrade-Insecure-Requests': u'1', u'sec-ch-ua-platform': u'"Windows"', u'Sec-Fetch-User': u'?1', u'Accept-Language': u'en-US,en;q=0.9'}
+0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+URL: https://bwapp.hakhub.net:443/login.php
+Request Type: POST
+{u'Origin': u'https://bwapp.hakhub.net', u'Cookie': u'security_level=0; PHPSESSID=u7kp3is7jdbo8ot51au9fnnig4', u'Accept': u'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', u'Connection': u'close', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0', u'Referer': u'https://bwapp.hakhub.net/login.php', u'Sec-Fetch-Site': u'same-origin', u'Sec-Fetch-Dest': u'document', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Sec-Fetch-Mode': u'navigate', u'sec-ch-ua': u'"Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"', u'sec-ch-ua-mobile': u'?0', u'Cache-Control': u'max-age=0', u'Upgrade-Insecure-Requests': u'1', u'sec-ch-ua-platform': u'"Windows"', u'Sec-Fetch-User': u'?1', u'Accept-Language': u'en-US,en;q=0.9', u'Content-Length': u'63', u'Content-Type': u'application/x-www-form-urlencoded'}
+1
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+URL: https://bwapp.hakhub.net:443/login.php
+Request Type: GET
+{u'Cookie': u'security_level=0; PHPSESSID=u7kp3is7jdbo8ot51au9fnnig4', u'Accept': u'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', u'Connection': u'close', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0', u'Referer': u'https://bwapp.hakhub.net/portal.php', u'Sec-Fetch-Site': u'same-origin', u'Sec-Fetch-Dest': u'document', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Sec-Fetch-Mode': u'navigate', u'sec-ch-ua': u'"Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"', u'sec-ch-ua-mobile': u'?0', u'Upgrade-Insecure-Requests': u'1', u'sec-ch-ua-platform': u'"Windows"', u'Accept-Language': u'en-US,en;q=0.9'}
+0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+URL: https://bwapp.hakhub.net:443/login.php
+Request Type: POST
+{u'Origin': u'https://bwapp.hakhub.net', u'Cookie': u'security_level=0; PHPSESSID=u7kp3is7jdbo8ot51au9fnnig4', u'Accept': u'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', u'Connection': u'close', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0', u'Referer': u'https://bwapp.hakhub.net/login.php', u'Sec-Fetch-Site': u'same-origin', u'Sec-Fetch-Dest': u'document', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Sec-Fetch-Mode': u'navigate', u'sec-ch-ua': u'"Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"', u'sec-ch-ua-mobile': u'?0', u'Cache-Control': u'max-age=0', u'Upgrade-Insecure-Requests': u'1', u'sec-ch-ua-platform': u'"Windows"', u'Sec-Fetch-User': u'?1', u'Accept-Language': u'en-US,en;q=0.9', u'Content-Length': u'63', u'Content-Type': u'application/x-www-form-urlencoded'}
+1
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+URL: https://bwapp.hakhub.net:443/login.php
+Request Type: GET
+{u'Cookie': u'security_level=0; PHPSESSID=u7kp3is7jdbo8ot51au9fnnig4', u'Accept': u'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', u'Connection': u'close', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0', u'Referer': u'https://bwapp.hakhub.net/portal.php', u'Sec-Fetch-Site': u'same-origin', u'Sec-Fetch-Dest': u'document', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Sec-Fetch-Mode': u'navigate', u'sec-ch-ua': u'"Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"', u'sec-ch-ua-mobile': u'?0', u'Upgrade-Insecure-Requests': u'1', u'sec-ch-ua-platform': u'"Windows"', u'Accept-Language': u'en-US,en;q=0.9'}
+0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+URL: https://bwapp.hakhub.net:443/login.php
+Request Type: POST
+{u'Origin': u'https://bwapp.hakhub.net', u'Cookie': u'security_level=0; PHPSESSID=u7kp3is7jdbo8ot51au9fnnig4', u'Accept': u'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', u'Connection': u'close', u'User-Agent': u'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0', u'Referer': u'https://bwapp.hakhub.net/login.php', u'Sec-Fetch-Site': u'same-origin', u'Sec-Fetch-Dest': u'document', u'Host': u'bwapp.hakhub.net', u'Accept-Encoding': u'gzip, deflate', u'Sec-Fetch-Mode': u'navigate', u'sec-ch-ua': u'"Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"', u'sec-ch-ua-mobile': u'?0', u'Cache-Control': u'max-age=0', u'Upgrade-Insecure-Requests': u'1', u'sec-ch-ua-platform': u'"Windows"', u'Sec-Fetch-User': u'?1', u'Accept-Language': u'en-US,en;q=0.9', u'Content-Length': u'60', u'Content-Type': u'application/x-www-form-urlencoded'}
+1
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
